@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class StatisticUtil {
 
     public static int average(int[] elements) {
-        return Arrays.stream(elements).reduce(0, Integer::sum) / elements.length;
+        return Arrays.stream(elements).sum() / elements.length;
 
     }
 

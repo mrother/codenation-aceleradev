@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="br.com.codenation.calculadora.CalculadoraSalarioTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-05-09T20:39:19" hostname="Note-Mauricio" time="0.005">
+  <properties/>
+  <testcase name="salarioLiquidoIsNotNull" classname="br.com.codenation.calculadora.CalculadoraSalarioTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
